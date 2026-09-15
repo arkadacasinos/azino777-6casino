@@ -34,6 +34,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-[#151515]">
       <head>
+        <meta name="yandex-verification" content="cdb672cfb2201e0c" />
         <meta name="robots" content="index, follow, max-image-preview:large" />
         <link rel="canonical" href={canonicalUrl} />
         <script
